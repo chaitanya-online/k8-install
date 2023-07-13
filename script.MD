@@ -8,7 +8,7 @@ curl https://raw.githubusercontent.com/techworldwithsiva/docker-install-commands
 ```
 * Clone this repo.
 ```
-git clone https://github.com/techworldwithsiva/k8-install.git
+git clone https://github.com/chaitanya-online/k8-install.git
 ```
 * go to k8-install folder
 ```
