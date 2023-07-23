@@ -32,3 +32,7 @@ eksctl create cluster --config-file=eks-config-spot.yaml
 eksctl delete cluster --config-file=eks-config-spot.yaml
 ```
 
+```
+git clone https://github.com/chaitanya-online/k8-resources.git
+```
+
